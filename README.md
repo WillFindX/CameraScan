@@ -5,4 +5,4 @@
 
 点击后不会自动收状态栏，需手动收缩。
 
-应用地址：https : //www.coolapk.com/apk/Zerocheng.CameraScan
+应用地址：https://www.coolapk.com/apk/Zerocheng.CameraScan
